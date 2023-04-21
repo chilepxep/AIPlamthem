@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "ten": "Anh trai 1",
+    "thongtin": "Nguyễn văn A _ năm:2000 _ nghề nghiệp: bác sĩ",
+    "mota": "cao 1m75, nặng 65kg",
+    "hoatdong": "rãnh thứ 2 và thứ 3"
+  },
+  {
+    "Id": 2,
+    "ten": "Anh trai 2",
+    "thongtin": "Nguyễn văn B _ năm:2001 _ nghề nghiệp: Giám đốc",
+    "mota": "cao 1m70, nặng 63kg",
+    "hoatdong": "rãnh thứ 4 và thứ 5"
+  },
+  {
+    "Id": 3,
+    "ten": "Anh trai 3",
+    "thongtin": "Nguyễn văn C _ năm:1999 _ nghề nghiệp: Kỹ sư",
+    "mota": "cao 1m8, nặng 70kg",
+    "hoatdong": "rãnh thứ 6 và thứ 7"
+  },
+  {
+    "Id": 4,
+    "ten": "Anh trai 4",
+    "thongtin": "Nguyễn văn D _ năm:2003 _ nghề nghiệp: CEO ngân hàng",
+    "mota": "cao 1m8, nặng 68kg",
+    "hoatdong": "rãnh chủ nhật"
+  }
+]
